@@ -32,6 +32,5 @@ var Fill = {
         //     links()[i].style.color = fColor;  
         // }
         $('a').css('color', fColor);
-
     }
 }
